@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusrob&label=Profile%20views&color=919191&style=plastic" alt="gusrob" /> </p>
 
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusrob" alt="gusrob" /></a> </p>
+--->
 
 - 🔭 I’m currently working on [Crypto](https://github.com/GusRob/Crypto)
 
