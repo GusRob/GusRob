@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GusRob](https://github.com/GusRob)
 
-- 💬 Ask me about **The Perfect Dark 'n' Stormy<sup>tm</sup>**
+- 💬 Ask me about **The Perfect Dark 'n' Stormy<sup>®</sup>**
 
 - 📫 How to reach me **angusprobertson@gmail.com**
 
