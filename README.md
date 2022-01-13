@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusrob" alt="gusrob" /></a> </p>
 --->
 
-- 🔭 I’m currently working on [a 2d Graphics Library](https://github.com/GusRob/2DGraphicsLib)
+- 🔭 I’m currently working on [a djikstra's algorithm implementation](https://github.com/GusRob/djikstra)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GusRob](https://github.com/GusRob)
 
