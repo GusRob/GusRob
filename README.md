@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gus</h1>
-<h3 align="center">An absolute geezer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusrob&label=Profile%20views&color=919191&style=plastic" alt="gusrob" /> </p>
 
@@ -7,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusrob" alt="gusrob" /></a> </p>
 --->
 
+- 🧐 Final year MEng at University of Bristol
+
 - 🚧 I’m currently working on [a wordle clone](https://github.com/GusRob/wordle)
 
 - 👨‍💻 Visit my portfolio site! [angusprobertson.com](https://angusprobertson.com/)
-
-- 💬 Ask me about **The Perfect Dark 'n' Stormy<sup>®</sup>**
 
 - 📫 How to reach me **angusprobertson@gmail.com**
 
