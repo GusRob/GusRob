@@ -8,9 +8,7 @@
 
 - 🧐 Final year MEng at University of Bristol
 
-- 🚧 I’m currently working on [a wordle clone](https://github.com/GusRob/wordle)
-
-- 👨‍💻 Visit my portfolio site! [angusprobertson.com](https://angusprobertson.com/)
+- 🚧 I’m currently working on my portfolio site! [angusprobertson.com](https://www.angusprobertson.com/)
 
 - 📫 How to reach me **angusprobertson@gmail.com**
 
