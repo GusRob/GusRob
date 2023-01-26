@@ -8,7 +8,9 @@
 
 - 🧐 Final year MEng at University of Bristol
 
-- 🚧 I’m currently working on my portfolio site! [angusprobertson.com](https://www.angusprobertson.com/)
+- 👨‍💻 I’m currently working on a [graphics engine](https://github.com/GusRob/GraphicsEngine.git)
+
+- 🚧 My portfolio site is now under construction! [angusprobertson.com](https://www.angusprobertson.com/)
 
 - 📫 How to reach me **angusprobertson@gmail.com**
 
